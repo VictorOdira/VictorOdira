@@ -1,10 +1,10 @@
 ## Hi, I'm Victor ✨ 
 
-🧩 Certified Agile Practitioner (ACP) by PMI 
-📊 Project Management Professional (PMP) by PMI 
-📈 Power BI Data Analyst by Microsoft 
-➡️ Certified Workflow Specialist by Asana 
-🪙 Certified Investment & Financial Analyst (CIFA) - Intermediate by KASNEB
+🧩 Certified Agile Practitioner (ACP) by PMI</br>
+📊 Project Management Professional (PMP) by PMI</br>
+📈 Power BI Data Analyst by Microsoft</br>
+➡️ Certified Workflow Specialist by Asana</br>
+🪙 Certified Investment & Financial Analyst (CIFA) - Intermediate by KASNEB</br>
 
 
  🔭 I’m currently working on ...
